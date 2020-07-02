@@ -4,7 +4,7 @@ class SecretBox extends React.Component {
     constructor(props){
         super(props);
         this.state = {
-          notHere: false
+          foolsGold: false
         }
     }
     render(){
