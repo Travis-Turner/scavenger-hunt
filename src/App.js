@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import MagicVase from './components/MagicVase';
 import SecretBox from './components/SecretBox';
