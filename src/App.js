@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import MagicVase from './components/MagicVase';
+import GenieLamp from './components/GenieLamp';
 import SecretBox from './components/SecretBox';
 import TreasureChest from './components/TreasureChest';
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Scavenger Hunt</h1>
-      <MagicVase />
+      <GenieLamp />
       <SecretBox />
       <TreasureChest />
     </div>

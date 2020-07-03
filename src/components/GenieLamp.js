@@ -1,6 +1,6 @@
 import React from 'react';
 
-class MagicVase extends React.Component {
+class GenieLamp extends React.Component {
     constructor(props){
         super(props);
         this.state = {
@@ -9,10 +9,10 @@ class MagicVase extends React.Component {
     }
     render(){
       return(
-        <p>Magic Vase</p>
+        <p>Genie Lamp</p>
       )
       
     }
 }
 
-export default MagicVase;
+export default GenieLamp;
